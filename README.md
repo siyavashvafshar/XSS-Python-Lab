@@ -26,4 +26,8 @@ Then simply visit [localhost:10007][app] ! 😆
     
 ## Find With SAST Tools
 
-      SonarQube : 
+      SonarQube : https://codequality.ir/images/logo.svg?v=6.6
+      
+## Fix 
+
+      https://flask.palletsprojects.com/en/1.1.x/templating/#controlling-autoescaping
