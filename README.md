@@ -28,6 +28,12 @@ Then simply visit [localhost:10007][app] ! 😆
 
       SonarQube : https://codequality.ir/images/logo.svg?v=6.6
       
+      [a link](https://github.com/user/repo/blob/branch/other_file.md)
+
+      
 ## Fix 
 
       https://flask.palletsprojects.com/en/1.1.x/templating/#controlling-autoescaping
+      
+      [a link](https://flask.palletsprojects.com/en/1.1.x/templating/#controlling-autoescaping)
+
