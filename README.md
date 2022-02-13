@@ -22,7 +22,6 @@ Then simply visit [localhost:10007][app] ! 😆
 
 Find With SAST Tools : SonarQube 
 
-https://raw.githubusercontent.com/NarbehJackson/XSS-Python-Lab/main/Screen%20Shot%202022-02-14%20at%2012.36.46%20AM.png
 
 Find With My yml template : 
 
