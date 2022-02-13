@@ -27,6 +27,9 @@ Find With SAST Tools : SonarQube Develpoer
 
 Find With My yml template : 
 
+          pattern-regex: "{{.*?\\|\\s*safe(\\s*}})?"
+
+
 ![Getting Started](2.png)
 
 
